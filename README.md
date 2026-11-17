@@ -1,2 +1,2 @@
 # Ollama-Project
-Automating Dockerfile creation Using Python Script
+Dockerfile Generation Using Python Automation
